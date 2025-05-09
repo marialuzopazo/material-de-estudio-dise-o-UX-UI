@@ -8,7 +8,7 @@ Este espacio nace como un diario de ruta donde voy registrando todo lo que voy a
 
 Mi objetivo es ir documentando el proceso paso a paso, compartir mis primeros ejercicios, y dejar registro de mi evolución como diseñadora UX. Este repo va a estar en constante crecimiento ✍️📈
 *******************************
-# 💼 ¿Qué vas a encontrar?
+# 💼 ¿Qué cosas vas a encontrar?
 Material de estudio, ejercicios prácticos, trabajos en desarrollo, videos y mucho más. Todo está basado en los contenidos del curso, con aportes personales, investigaciones y entregas propias.
 
 * 📌 Contenidos abordados hasta el momento:
