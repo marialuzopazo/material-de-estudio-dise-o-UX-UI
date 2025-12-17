@@ -19,5 +19,8 @@ material de estudio de cada curso y consignas de las actividades
  una herramienta de estudio 
 me ayuda a ordenar lo aprendido, practicar de forma autónoma y compartir mi recorrido con quien quiera seguirlo. Si estás empezando en el mundo UX UI o cursando algo parecido, capaz algo de acá te sirva o te inspire 💡✨
 
+# te gustaría formar parte de nuestra COMUNIDAD de diseño ux ui en discord ? 💫
+unite ! https://discord.gg/ubhPxrGX ✅
+
 *******************************
 
